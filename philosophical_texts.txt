@@ -1,58 +1,36 @@
-Philosophical Texts Curated from Deep Philosophy School (dphilo.org)
-Format: each passage separated by '===' with metadata.
-
-=== Text #45: Gabriel Marcel - Myself as a gift ===
-Author: Gabriel Marcel (1889-1973)
-Title: Myself as a gift
-Tags: Gift, Self, Ego, Humility, Responsibility
+=== Text #38: Augustine - The desire for wisdom ===
+Author: Augustine (354-430 AD)
+Title: The desire for wisdom
+Tags: Wisdom, Happiness, Desire, Truth, Philosophy
 Passage:
-Maybe there is no more fatal error than that which conceives of the ego as the secret home of originality. … The best part of my personality does not belong to me. I am in no sense the owner, only the trustee. … If I consider myself as the guardians of my gifts, responsible for their fruitfulness – that is to say, if I recognize in them a call, or perhaps a question to which I must respond – it will not occur to me to be proud about them, and to parade them before an audience, which (as I said before) really means before myself.
-Indeed, if we think about it, there is nothing in me that cannot or should not be regarded as a gift. It is pure fiction to imagine a pre-existent self to whom those gifts were given thanks to certain rights that I have, or as a reward for my previous merits.
+Just as it is agreed that we all wish to be happy, so too it is agreed that we all wish to be wise, because who is happy without wisdom? Because nobody is satisfied without the supreme good which is discovered and possessed in the truth which we call wisdom. Even before we are happy, the idea of happiness is impressed on our mind. This is how we know, and can assert confidently and with no doubt whatsoever, that we wish to be happy. Similarly, even before we are wise, the notion of wisdom is stamped on our mind. That is why each of us, if asked whether he wants to be wise, replies without a shadow of doubt that he does. … Because if your mind was not somehow aware of what wisdom is, you would never know that you desire to be wise, or that you should desire to be wise – and neither of them, I think, you will deny.
 
-=== Text #44: Johann Gottfried Herder - Between two worlds ===
-Author: Johann Gottfried Herder (1744-1803)
-Title: Between two worlds
-Tags: Duality, Spirituality, Human condition, Earth vs spiritual, Immortality
+=== Text #36: Francis Herbert Bradley - Harmony in the absolute ===
+Author: Francis Herbert Bradley (1846–1924)
+Title: Harmony in the absolute
+Tags: Absolute, Reality, Harmony, Unity, Metaphysics
 Passage:
-The curious inconsistency of the human condition becomes clear: As an animal, the human being tends to the earth, and is attached to it as his dwelling place. As a human being, he has within him the seeds of immortality, which require to be planted in another soil. As an animal, he can satisfy his wants, and people who are content with this feel themselves sufficiently happy here below; but those who seek a nobler purpose find everything around them imperfect and incomplete. What is most noble is never accomplished upon the earth, what is most pure is rarely stable and long-lasting. This arena is only a place of exercise and trial for the powers of our hearts and minds. The history of the human species – including what it has attempted and what has happened to it, the efforts it has made and the revolutions it has undergone – proves this sufficiently.
+We can find no province of the world so low that the Absolute does not inhabit it. Nowhere is there even a single fact so fragmentary and so poor that it does not matter to the universe. There is truth in every idea however false, there is reality in every existence however slight; and where we can point to reality or truth, there is the one undivided life of the Absolute. […] But on the other hand, Reality is not the sum of things. It is the unity in which all things, coming together, are transformed, although not equally. And in this unity, relations of separation and hostility are affirmed and absorbed. These relations, too, are harmonious in the Whole […] Extreme hostility implies a more intense relation, and this relation is part of the Whole and enriches its unity. The apparent disharmony and disturbance is overruled into harmony, and it is the condition of fuller and more individual development.
 
-=== Text #43: Sophie de Condorcet - Noble love ===
-Author: Sophie de Condorcet (1764-1822)
-Title: Noble love
-Tags: Love, Virtue, Friendship, Generosity, Esteem
+=== Text #35: Simone de Beauvoir - The value of freedom ===
+Author: Simone de Beauvoir (1908–1986)
+Title: The value of freedom
+Tags: Freedom, Responsibility, Ambiguity, Ethics, Existentialism
 Passage:
-A person who is worthy of esteem is happy to esteem others. His heart is easily moved by the mere thought of a good action, and it is tied and attached to anybody he thinks can perform such an action. He is happy to be with him, and their brotherhood of virtue creates between them freedom and equality, which they may experience tenderly like the tenderness between the closest blood and natural relatives.
-[…] It is so true that the pleasure we find in loving comes (at least in the case of friendship), to a large extent, from our pleasure of making people happy through our affections, so that only generous souls can love. Souls that lack magnanimity or nobility, or that have been corrupted by selfishness, might want to be loved and might seek love's delight and fruits, but only generous hearts who can be touched by the happiness of others really know how to love.
+Regardless of the incredible dimensions of the world around us, the density of our ignorance, the risks of catastrophes, and our weakness as individuals within the immense collectivity, the fact remains that we are absolutely free today if we choose to want our existence in its finiteness, a finiteness which is open to the infinite. And in fact, any person who has known real loves, real revolts, real desires, and real will knows quite well that he does not need any external guarantee in order to be sure of his goals. His certainty in them comes from his own drive. There is a very old saying which goes: “Do what you must, whatever happens.” … If each person did what he must, existence would be saved in each person without any need to dream about a paradise where everything would be reconciled with death.
 
-=== Text #42: Blaise Pascal - The dignity of thought ===
-Author: Blaise Pascal (1623-1662)
-Title: The dignity of thought
-Tags: Thought, Dignity, Morality, Human nature, Reason
+=== Text #33: Georg Wilhelm Friedrich Hegel - Spirit is freedom ===
+Author: Georg Wilhelm Friedrich Hegel (1770–1831)
+Title: Spirit is freedom
+Tags: Spirit, Freedom, Dialectics, Philosophy of History, Hegelianism
 Passage:
-Man is but a reed, the most feeble thing in nature; but he is a thinking reed. The entire universe need not arm itself to crush him. A vapor, a drop of water suffices to kill him. But, if the universe were to crush him, man would still be more noble than that which killed him, because he knows that he dies and the advantage which the universe has over him; the universe knows nothing of this.
-All our dignity consists, then, in thought. By it we must elevate ourselves; not by space or time which we cannot fill. Let us endeavor then to think well; this is the principle of morality.
-348. A thinking reed: It is not from space that I must seek my dignity but from government over my thought; I shall have no more if I possess worlds; by space universe encompasses me like an atom; by thought I comprehend world.
+Just as the essence of matter is gravity, so, in contrast, we may affirm that the essence of Spirit is Freedom. Everybody will easily agree that Spirit also has, among other properties, Freedom; but philosophy teaches that all the qualities of Spirit exist only through Freedom; that all these qualities are only means for attaining Freedom; that all of them seek and produce this and only this. It is a result of speculative philosophy that freedom is the only truth of Spirit. Matter possesses gravity because of its tendency toward a central point. It is essentially composite – consisting of parts that exclude each other. It seeks its unity … Spirit, in contrast, may be defined as that which has its center in itself. It does not have a unity outside itself, but it has already found it; it exists in and with itself. Matter has its essence out of itself; Spirit has self‑contained existence.
 
-=== Text #41: Joaquín Xirau Palau - The metaphysics of crisis ===
-Author: Joaquín Xirau Palau (1895-1945)
-Title: The metaphysics of crisis
-Tags: Crisis, Metaphysics, Modernity, Chaos, Cosmos, Spirit
+=== Text #25: Giacomo Leopardi - Levels of self‑knowledge ===
+Author: Giacomo Leopardi (1798–1837)
+Title: Levels of self‑knowledge
+Tags: Self‑knowledge, Experience, Maturity, Pessimism, Human condition
 Passage:
-The social and political crisis through which the world is passing has a metaphysical background that has been little noticed, or is wholly unknown to the great majority of people. It persists in the air that we breathe; its presence is so familiar that it is imperceptible. …
-Modern life is chaos, not Cosmos. As such, it lacks a center, it is meaningless, aimless. The ancient world was an organism. And, as in every organism, each part served the whole, and the whole gave service to the parts. … The living body of reality had its foundation in the material realm, and its culmination was in the splendor of the spirit. … [But now] the organism splits and disappears. We are left only [with the duality of] matter and spirit, the real and the ideal. The glory of the world is reduced to either one or the other. Thus transformed into a thin thread of ideas or an endless flux of causes and effects, the world becomes an illusion. And through idealism and materialization, mathematical calculus or atomic movement, it tends to dissolve into nothingness.
-
-=== Text #40: Emil Cioran - The desire to be nothing ===
-Author: Emil Cioran (1911-1995)
-Title: The desire to be nothing
-Tags: Nothingness, Pessimism, Solitude, Inner self, Fulfillment
-Passage:
-Once the shutters are closed, I stretch out in the dark. The outer world, a fading murmur, dissolves. All that is left is myself and … there’s the rub. Hermits have spent their lives in dialogue with what was most hidden within them. If only, following their example, I could give myself up to that extreme exercise, in which one unites with the intimacy of one’s own being! It is this self-interview, this inward transition which matters, and which has no value unless continually renewed, so that the self is finally absorbed by its essential version.
-The faint light in each of us which dates back to before our birth, to before all births, is what must be protected if we want to rejoin that remote glory from which we shall never know why we were separated.
-I have never known a single sensation of fulfillment, of true happiness, without thinking that it was the moment when – now or never – I should disappear for good.
-
-=== Text #39: Juan Bautista Alberdi - Philosophy as Freedom ===
-Author: Juan Bautista Alberdi (1810–1884)
-Title: Philosophy as Freedom
-Tags: Freedom, Reason, Philosophy, Emancipation, Progress
-Passage:
-Since philosophy is the denial of all authority other than the authority of reason, philosophy is the mother of all emancipation, of all freedom, of all social progress. … There is only one freedom – that of reason, which has as many phases as there are elements in the human spirit. So when all these freedoms, or phases of rational freedom, do not exist at the same time, it can be said that no freedom properly exists. … To be free is not merely to act according to reason, but also to think according to reason, to believe according to reason, to write according to reason, to see according to reason… If, then, we want to be free, let us first be worthy of it. Freedom does not come in a flash. It is the slow birth of civilization. Freedom is not the conquest of a day; it is one of the purposes of humanity, a purpose that it will never achieve except relatively.
+82. *No one becomes a man (or woman) before he has had considerable experience of himself which reveals himself to himself, and determines his opinion of himself, and thus determines his destiny and his condition in life. Before this great experience, nobody in the world is much more than a child…*
+*However, if this experience does occur … then he knows from experience the nature of the passions, he knows his own nature and temperament, he has a sense of his own abilities and strengths. And by now, he can judge himself and what he must hope for or despair of from himself, and what place he is probably destined to have in the world.*
+*In short, life appears different to his eyes, since it has changed for him from a thing heard to a thing seen, from something imagined to something real, and he feels that he is in the middle of it, perhaps not happier but more powerful than before, in other words more inclined to make good use of himself and of others.*
