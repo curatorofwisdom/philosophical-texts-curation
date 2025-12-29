@@ -1,3 +1,62 @@
+Philosophical Texts Curated from Deep Philosophy School (dphilo.org)
+Format: each passage separated by '===' with metadata.
+
+=== Text #45: Gabriel Marcel - Myself as a gift ===
+Author: Gabriel Marcel (1889-1973)
+Title: Myself as a gift
+Tags: Gift, Self, Ego, Humility, Responsibility
+Passage:
+Maybe there is no more fatal error than that which conceives of the ego as the secret home of originality. … The best part of my personality does not belong to me. I am in no sense the owner, only the trustee. … If I consider myself as the guardians of my gifts, responsible for their fruitfulness – that is to say, if I recognize in them a call, or perhaps a question to which I must respond – it will not occur to me to be proud about them, and to parade them before an audience, which (as I said before) really means before myself.
+Indeed, if we think about it, there is nothing in me that cannot or should not be regarded as a gift. It is pure fiction to imagine a pre-existent self to whom those gifts were given thanks to certain rights that I have, or as a reward for my previous merits.
+
+=== Text #44: Johann Gottfried Herder - Between two worlds ===
+Author: Johann Gottfried Herder (1744-1803)
+Title: Between two worlds
+Tags: Duality, Spirituality, Human condition, Earth vs spiritual, Immortality
+Passage:
+The curious inconsistency of the human condition becomes clear: As an animal, the human being tends to the earth, and is attached to it as his dwelling place. As a human being, he has within him the seeds of immortality, which require to be planted in another soil. As an animal, he can satisfy his wants, and people who are content with this feel themselves sufficiently happy here below; but those who seek a nobler purpose find everything around them imperfect and incomplete. What is most noble is never accomplished upon the earth, what is most pure is rarely stable and long-lasting. This arena is only a place of exercise and trial for the powers of our hearts and minds. The history of the human species – including what it has attempted and what has happened to it, the efforts it has made and the revolutions it has undergone – proves this sufficiently.
+
+=== Text #43: Sophie de Condorcet - Noble love ===
+Author: Sophie de Condorcet (1764-1822)
+Title: Noble love
+Tags: Love, Virtue, Friendship, Generosity, Esteem
+Passage:
+A person who is worthy of esteem is happy to esteem others. His heart is easily moved by the mere thought of a good action, and it is tied and attached to anybody he thinks can perform such an action. He is happy to be with him, and their brotherhood of virtue creates between them freedom and equality, which they may experience tenderly like the tenderness between the closest blood and natural relatives.
+[…] It is so true that the pleasure we find in loving comes (at least in the case of friendship), to a large extent, from our pleasure of making people happy through our affections, so that only generous souls can love. Souls that lack magnanimity or nobility, or that have been corrupted by selfishness, might want to be loved and might seek love's delight and fruits, but only generous hearts who can be touched by the happiness of others really know how to love.
+
+=== Text #42: Blaise Pascal - The dignity of thought ===
+Author: Blaise Pascal (1623-1662)
+Title: The dignity of thought
+Tags: Thought, Dignity, Morality, Human nature, Reason
+Passage:
+Man is but a reed, the most feeble thing in nature; but he is a thinking reed. The entire universe need not arm itself to crush him. A vapor, a drop of water suffices to kill him. But, if the universe were to crush him, man would still be more noble than that which killed him, because he knows that he dies and the advantage which the universe has over him; the universe knows nothing of this.
+All our dignity consists, then, in thought. By it we must elevate ourselves; not by space or time which we cannot fill. Let us endeavor then to think well; this is the principle of morality.
+348. A thinking reed: It is not from space that I must seek my dignity but from government over my thought; I shall have no more if I possess worlds; by space universe encompasses me like an atom; by thought I comprehend world.
+
+=== Text #41: Joaquín Xirau Palau - The metaphysics of crisis ===
+Author: Joaquín Xirau Palau (1895-1945)
+Title: The metaphysics of crisis
+Tags: Crisis, Metaphysics, Modernity, Chaos, Cosmos, Spirit
+Passage:
+The social and political crisis through which the world is passing has a metaphysical background that has been little noticed, or is wholly unknown to the great majority of people. It persists in the air that we breathe; its presence is so familiar that it is imperceptible. …
+Modern life is chaos, not Cosmos. As such, it lacks a center, it is meaningless, aimless. The ancient world was an organism. And, as in every organism, each part served the whole, and the whole gave service to the parts. … The living body of reality had its foundation in the material realm, and its culmination was in the splendor of the spirit. … [But now] the organism splits and disappears. We are left only [with the duality of] matter and spirit, the real and the ideal. The glory of the world is reduced to either one or the other. Thus transformed into a thin thread of ideas or an endless flux of causes and effects, the world becomes an illusion. And through idealism and materialization, mathematical calculus or atomic movement, it tends to dissolve into nothingness.
+
+=== Text #40: Emil Cioran - The desire to be nothing ===
+Author: Emil Cioran (1911-1995)
+Title: The desire to be nothing
+Tags: Nothingness, Pessimism, Solitude, Inner self, Fulfillment
+Passage:
+Once the shutters are closed, I stretch out in the dark. The outer world, a fading murmur, dissolves. All that is left is myself and … there’s the rub. Hermits have spent their lives in dialogue with what was most hidden within them. If only, following their example, I could give myself up to that extreme exercise, in which one unites with the intimacy of one’s own being! It is this self-interview, this inward transition which matters, and which has no value unless continually renewed, so that the self is finally absorbed by its essential version.
+The faint light in each of us which dates back to before our birth, to before all births, is what must be protected if we want to rejoin that remote glory from which we shall never know why we were separated.
+I have never known a single sensation of fulfillment, of true happiness, without thinking that it was the moment when – now or never – I should disappear for good.
+
+=== Text #39: Juan Bautista Alberdi - Philosophy as Freedom ===
+Author: Juan Bautista Alberdi (1810–1884)
+Title: Philosophy as Freedom
+Tags: Freedom, Reason, Philosophy, Emancipation, Progress
+Passage:
+Since philosophy is the denial of all authority other than the authority of reason, philosophy is the mother of all emancipation, of all freedom, of all social progress. … There is only one freedom – that of reason, which has as many phases as there are elements in the human spirit. So when all these freedoms, or phases of rational freedom, do not exist at the same time, it can be said that no freedom properly exists. … To be free is not merely to act according to reason, but also to think according to reason, to believe according to reason, to write according to reason, to see according to reason… If, then, we want to be free, let us first be worthy of it. Freedom does not come in a flash. It is the slow birth of civilization. Freedom is not the conquest of a day; it is one of the purposes of humanity, a purpose that it will never achieve except relatively.
+
 === Text #38: Augustine - The desire for wisdom ===
 Author: Augustine (354-430 AD)
 Title: The desire for wisdom
@@ -34,3 +93,45 @@ Passage:
 82. *No one becomes a man (or woman) before he has had considerable experience of himself which reveals himself to himself, and determines his opinion of himself, and thus determines his destiny and his condition in life. Before this great experience, nobody in the world is much more than a child…*
 *However, if this experience does occur … then he knows from experience the nature of the passions, he knows his own nature and temperament, he has a sense of his own abilities and strengths. And by now, he can judge himself and what he must hope for or despair of from himself, and what place he is probably destined to have in the world.*
 *In short, life appears different to his eyes, since it has changed for him from a thing heard to a thing seen, from something imagined to something real, and he feels that he is in the middle of it, perhaps not happier but more powerful than before, in other words more inclined to make good use of himself and of others.*
+
+=== Text #24: Friedrich Nietzsche - The self-creator ===
+Author: Friedrich Nietzsche (1844-1900)
+Title: The self-creator
+Tags: Self-creation, Freedom, Values, Solitude, Existentialism
+Passage:
+You call yourself free? I want to hear your dominating thought, not to hear that you have escaped from a yoke. Are you one of those who has the RIGHT to escape from a yoke? Some people threw away their last value when they threw away their servitude.
+Free FROM what? That doesn't matter to Zarathustra! But your eyes should tell me brightly: Free FOR what? Can you give yourself your own evil and your own good, and place your own will above yourself as a law? Can you be your own judge and punisher of your law? It is terrible to be alone with the judge and punisher of one's own law. That is how a star is thrown out into the void and into the icy breath of solitude.
+
+=== Text #23: Maurice Maeterlinck - The deeper life ===
+Author: Maurice Maeterlinck (1862-1949)
+Title: The deeper life
+Tags: Depth, Spirituality, Inner life, Communication, Nobility
+Passage:
+Each person has to search for his own special ability for a higher life in the midst of the humble and inescapable reality of daily existence. There can be no nobler aim in life than this. It is only through our communications with the infinite that we can be distinguished from each other. If the hero is greater than the wretch who walks by his side, it is because at a certain moment of his existence he became more fully conscious of one of these communications. …
+It is within our power to increase these communications. In the life of every person there was a day when the heavens opened by themselves, and this moment is almost always the birth of his true spiritual personality. Certainly, this moment forms our invisible, eternal features that we reveal (although we don't know it) to angels and to souls. But with most people it is only chance that caused the heavens to open.
+
+=== Text #22: Plotinus - Spiritual beauty ===
+Author: Plotinus (204-270 AD)
+Title: Spiritual beauty
+Tags: Beauty, Spirit, Soul, Vision, Neo-Platonism
+Passage:
+There are beauties that are more fundamental and high than the beauty of material objects. In the world of the senses we no longer know them, but the soul, which does not rely on sense-organs, sees them and announces them. We must ascend to the vision of these beauties, and leave the senses in their low place.
+… Such a vision is only for those who see with the sight of the Soul. And when they experience this vision, they rejoice, and they are filled with joy and with agitation that is deeper than anything else, because now they are moving in the realm of truth. This is the spirit which beauty always inspires, wonderment and a delicious agitation, longing and love and a delightful trembling. …
+Therefore we must ascend again towards the Good, which is what every soul desires. Anyone who has seen it, knows what I mean when I say that it is beautiful.
+
+=== Text #21: Maria Zambrano - The irrational light ===
+Author: Maria Zambrano (1904-1991)
+Title: The irrational light
+Tags: Irrational, Dream, Darkness, Awakening, Inner light
+Passage:
+One must fall asleep above in the light. One must be awake below in the intra-terrestrial, intra-corporal darkness of the various bodies which terrestrial man inhabits: that of the earth, of the universe, of his own.
+Down there in "the depths," in the underworlds, the heart watches, is kept awake, is reawakened within itself.
+Up above, in the light, the heart abandons itself, surrenders. It collects itself. It finally falls asleep no longer in pain. In the welcoming light where no violence is suffered, one has arrived to that light without forcing any door and even without opening it, without having passed through lintels of light and shadow, without effort and protection.
+
+=== Text #20: Friedrich Schiller - The sublime ===
+Author: Friedrich Schiller (1759-1805)
+Title: The sublime
+Tags: Sublime, Freedom, Reason, Aesthetics, Mixed feeling
+Passage:
+There are two capacities which nature gave us as companions throughout life. … In the first we recognize the feeling of the beautiful, in the second the feeling of the sublime. … With beauty we feel ourselves free, because our senses are in harmony with the laws of reason. With the sublime we feel ourselves free, because our senses have no influence on the realm of reason, because the spirit acts as if it stands only under its own laws.
+The feeling of the sublime is a mixed feeling. It is a combination of anxiety, which expresses itself in its highest degree as a shudder, and of joy, which can rise to ecstasy. And although it is not precisely pleasure, delicate souls generally prefer it to every pleasure. … We sense through the feeling of the sublime that our spiritual nature is not necessarily determined by the state of our senses; that the laws of nature are not necessarily our laws; and that we have in us an autonomous principle, independent of all sensuous impressions.
