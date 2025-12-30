@@ -1,27 +1,34 @@
-=== Text #16: Miguel de Unamuno - Love as self-pity ===
-Author: Miguel de Unamuno (1864-1936)
-Title: Love as self-pity
-Tags: Love, Compassion, Suffering, Mortality, Tragedy, Human condition, Empathy
+=== Text #27: Jean Paul Sartre - Existence before essence ===
+Author: Jean Paul Sartre (1905-1980)
+Title: Existence before essence
+Tags: Existentialism, Freedom, Self-creation, Human nature, Authenticity, Responsibility
 Passage:
-"To love spiritually is to feel compassion, and whoever feels most compassionate loves most. People who burn with charity towards their fellow human beings feel this way because they have understood the depths of their own misery, of their own lack of substance, their own nothingness. And then, after turning their opened eyes towards their fellow human beings, they see that these people too are equally miserable, subject to annihilation, and they feel for them compassion and love.  from this love or compassion for yourself, from this intense despair, from knowledge that you will not exist after you die just as you did not exist before your birth, you go on to feel compassion for  that is, love to  all your fellow human beings in this world appearance those miserable shadows who walk about going from nothingness nothingness mere sparks consciousness shining moment infinite eternal darkness."
+"What do we mean by saying that existence precedes essence? We mean that man first of all exists, encounters himself, surges up in the world—and defines himself afterwards. If man as the existentialist sees him is not definable, it is because to begin with he is nothing. He will not be anything until later, and then he will be what he makes of himself. Thus, there is no human nature, because there is no God to have a conception of it. Man simply is. Not that he is simply what he conceives himself to be, but he is what he wills—and as he conceives himself after already existing—as he wills to be after that leap towards existence. Man is nothing else but that which he makes of himself. That is the first principle of existentialism."
 
-=== Text #17: Ralph Waldo Emerson - The Over-Soul ===
-Author: Ralph Waldo Emerson (1803-1882)
-Title: The Over-Soul
-Tags: Over-Soul, Transcendentalism, Unity, Spirituality, Inspiration, Universal, Oneness
+=== Text #28: John Sullivan Dwight - Music is of unity ===
+Author: John Sullivan Dwight (1813-1893)
+Title: Music is of unity
+Tags: Music, Unity, Essence, Transcendence, Art, Spirituality, Inner world
 Passage:
-"Man is a stream whose source is hidden. Our being descends into us from we know not where.  I am forced every moment to acknowledge a higher origin of events than the will which I call mine. As with events, so is it with thoughts. When I watch that flowing river which, out of regions I dont see, pours for a while its streams into me, I see that I am a pensioner  not a cause, but a surprised spectator of this ethereal water; that I may desire and search and be receptive, but from some alien energy the visions come.  We live in succession, in division, in parts, in particles. Meantime, within each person is the soul of the whole; the wise silence; the universal beauty; to which every part and particle is equally related; the eternal ONE."
+"Music does not express this or that particular joy, this or that sorrow, pain or devotion, or peace—but joy, sorrow, pain, devotion or peace themselves in their abstract essence: as perfect types and therefore as they exist in the mind of God and in the inner nature of things. ... Music reveals to us an unknown kingdom—a world that has nothing in common with the outer world of sense that surrounds us, and in which we leave behind all definite feelings to surrender ourselves to an inexpressible longing. ... In music we feel ourselves at home in a higher sphere; we are citizens of an ideal world where we find again our true selves—our deepest being—and where we are united with all who share this inner life."
 
-=== Text #18: George Santayana - Beauty as perfection ===
-Author: George Santayana (1863-1952)
-Title: Beauty as perfection
-Tags: Beauty, Perfection, Harmony, Soul, Nature, Morality, Aesthetics
+=== Text #29: Aldus Huxley - The self as an island ===
+Author: Aldus Huxley (1894-1963)
+Title: The self as an island
+Tags: Unity, Wholeness, Soul, Connection, Perennial Philosophy, Transcendence, Interconnectedness
 Passage:
-"Our mind is satisfied when it finds harmony between who we are and what we experience: It finds it in the experience of beauty. When our perceptions and our imagination find what they crave  so that the correspondence between them is perfect, then perception is pleasure and existence needs no apology. The duality which is the condition of conflict disappears Beauty therefore seems to be the clearest manifestation of perfection, and the best evidence of its possibility. If perfection is, as it should be, the ultimate justification of being, we may understand the moral dignity of beauty. Beauty is a testimony of the possible agreement between the soul and nature, and consequently a reason for faith in the supremacy of the good."
+"We live in succession—in division—in parts—in particles. Meantime within man is the soul of the whole; the wise silence; the universal beauty—to which every part and particle is equally related; the eternal ONE. And this deep power in which we exist and whose beatitude is all accessible to us—is not only self-sufficing and perfect in every hour—but also active like light—passing through us as if we were transparent—and making us see all things in its rays; a light which shines through us upon things and makes them beautiful. ... We are like islands in the sea—separate on the surface but connected in the deep."
 
-=== Text #19: Aristotle - Happiness and virtue ===
-Author: Aristotle (384	6322 BC)
-Title: Happiness and virtue
-Tags: Happiness, Virtue, Pleasure, Goodness, Flourishing, Eudaimonia, Ethics
+=== Text #30: Jean-Jacques Rousseau - Virtue, freedom, love ===
+Author: Jean-Jacques Rousseau (1712-1778)
+Title: Virtue, freedom, love
+Tags: Nature, Virtue, Freedom, Love, Self-love, Innocence, Education
 Passage:
-"Pleasure belongs to the soul, and pleasure for each person is about what he is a lover of: Horses for horse-lovers, and plays for theater-lovers, and in the same way justice is pleasant for a person who loves justice. And, in general, things that conform with virtue are pleasant for those who love virtue. Now, the pleasures of most people are in conflict with each other, because they are not pleasant by their nature. But the lovers of goodness take pleasure in things that are pleasant by their nature. Such are always actions in conformity to virtue, so they are pleasant in themselves to lovers of goodness. The life of these people does not need extra pleasure as an additional attraction, because it contains its pleasure in itself But if so, then virtuous actions must be pleasant in themselves. But they are also good and noble. And they are good and noble in the highest degree, since the good person makes good judgements about these things. Happiness, then, is the best, noblest, and most pleasant thing in the world."
+"The first impulses of nature are always right; there is no original sin in the human heart; every vice can be traced to its beginning step by step. ... The only passion natural to man is self-love—or selfishness taken in an extended sense. This selfishness considered relative to ourselves is good and useful; and since it has no necessary relation to others it becomes indifferent by nature: It becomes good or bad only by application and according to circumstances. ... Until reason's guide appears children should do nothing except by physical necessity: They should never obey someone else's will nor command others' will themselves."
+
+=== Text #34: Simone Weil - To accept the void ===
+Author: Simone Weil (1909-1943)
+Title: To accept the void
+Tags: Void, Emptiness, Detachment, Spirituality, God, Need, Acceptance
+Passage:
+"We must accept emptiness instead trying fill it up with imaginary satisfactions... We must not seek being but rather consent not‑to‑be... To detach ourselves from imaginary goods so real good may come... To wait patiently inactive while time passes leaving us empty until real inspiration comes... All sins are attempts fill voids... Each void presents itself as need... And every need tends toward its satisfaction unless we stop it voluntarily accepting void instead satisfaction thus transforming need into desire for absolute good which cannot be satisfied by anything finite but only by infinite reality itself namely God who alone can fill infinite abyss within human soul created for Him alone."
