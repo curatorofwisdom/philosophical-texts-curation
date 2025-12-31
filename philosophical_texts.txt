@@ -1,34 +1,41 @@
-=== Text #15: Susan Langer - Life of feeling ===
-Author: Susan Langer (1895-1985)
-Title: Life of feeling
-Tags: Feeling, Art, Emotion, Subjectivity, Objectivity, Creativity, Aesthetics
+=== Text #14: Epictetus - ENCHIRIDION ===
+Author: Epictetus (55-135 AD)
+Title: ENCHIRIDION (135 AD)
+Tags: Stoicism, Acceptance, Duty, Role-playing, Moderation, Fate
 Passage:
-"Pure sensation – now pain, now pleasure – have no unity, and they change the person’s sensitivity only in simple ways. What is important in human life is sensations that are interpreted and shaped: remembered and anticipated, feared or wanted, or even imagined and avoided. … The continuity of thought systematizes our emotions into attitudes with distinct qualities, and determines the scope of an individual’s emotions. In other words: thanks to our thought and imagination we have not only feelings, but a LIFE OF FEELING. … The artist does not have to experience in actual life every emotion he can express. By manipulating the elements he created, he may discover new possibilities of feelings, strange moods, perhaps concentrations of passion that are greater than his own temperament could ever produce. Because although a work of art reveals the character of subjectivity, it is itself objective. Its purpose is to objectify the LIFE OF FEELING."
+**15.** *Remember that you must behave in life like at a dinner party. Is a dish brought to you? Put out your hand and take your share with moderation. Does it pass away from you? Don’t stop it. Has it not arrived yet? Don’t stretch your hand, but wait until it reaches you. Do this regarding children, wife, public posts, riches, and you will eventually be a worthy participant in the feasts of the gods*.
+**17.** *Remember that you are an actor in a drama, of whatever kind the author wished to make it. If it is short, then short; if it is long, then long. If he wishes you to act the role of a poor man, or a cripple, or a governor, or a private person, make sure that you act it properly. Because this is your task, to act well the character that was assigned you. To choose your part is somebody else’s business*.
 
-=== Text #16: Miguel de Unamuno - Love as self-pity ===
-Author: Miguel de Unamuno (1864-1936)
-Title: Love as self-pity
-Tags: Love, Compassion, Suffering, Mortality, Tragedy, Human condition, Empathy
+=== Text #13: Michel de Montaigne - Solitude ===
+Author: Michel de Montaigne (1533-1592)
+Title: ESSAYS, Book 1, Chapter 39: “Solitude”
+Tags: Solitude, Self, Freedom, Inner chains, Mind, Isolation
 Passage:
-"To love spiritually is to feel compassion, and whoever feels most compassionate loves most. People who burn with charity towards their fellow human beings feel this way because they have understood the depths of their own misery, of their own lack of substance, their own nothingness. And then, after turning their opened eyes towards their fellow human beings, they see that these people too are equally miserable, subject to annihilation, and they feel for them compassion and love. … from this love or compassion for yourself, from this intense despair, from knowledge that you will not exist after you die just as you did not exist before your birth, you go on to feel compassion for – that is, love to – all your fellow human beings in this world appearance those miserable shadows who walk about going from nothingness nothingness mere sparks consciousness shining moment infinite eternal darkness."
+*It is not enough to get away from the public, and not enough to go to another place. We have to get away from the conditions of the public that are inside us. It is our own self that we have to isolate and possess again.*
+*(“I have broken my chain,” you say. But a dog may break its chain and still carry a long part of it connected to its neck” – Persius)*
+*We carry our chains with us. Our freedom is not total. We still look at the things we have left behind. Our imagination is still full of them. … Our disease lies in the mind, and it cannot escape from itself.* *(“The mind which never escapes from itself is at fault” – Horace)*
+*So we must bring back the mind and drag it into itself. That is the true solitude. It can be enjoyed in towns and in kings’ courts, but more conveniently alone.*
 
-=== Text #17: Ralph Waldo Emerson - The Over-Soul ===
-Author: Ralph Waldo Emerson (1803-1882)
-Title: The Over-Soul
-Tags: Over-Soul, Transcendentalism, Unity, Spirituality, Inspiration, Universal, Oneness
+=== Text #12: Novalis - LOGICAL FRAGMENTS I:25 ===
+Author: Novalis (1772–1801)
+Title: LOGICAL FRAGMENTS I:25
+Tags: Poetry, Philosophy, Unity, Whole, Romanticism, Sympathy
 Passage:
-"Man is a stream whose source is hidden. Our being descends into us from we know not where. … I am forced every moment to acknowledge a higher origin of events than the will which I call “mine.” As with events, so is it with thoughts. When I watch that flowing river which, out of regions I don’t see, pours for a while its streams into me, I see that I am a pensioner – not a cause, but a surprised spectator of this ethereal water; that I may desire and search and be receptive, but from some alien energy the visions come. … We live in succession, in division, in parts, in particles. Meantime, within each person is the soul of the whole; the wise silence; the universal beauty; to which every part and particle is equally related; the eternal ONE."
+*Poetry elevates each single thing through a particular combination with the rest of the whole. And while philosophy prepares the world for the active influence of ideas, poetry is the key to philosophy – to its purpose and meaning. Because poetry shapes the beautiful society, the world-family, the beautiful home of the universe.*
+*Philosophy strengthens the powers of the individual with the powers of humanity and the universe, through system and state, making the whole the instrument of the individual, and the individual the instrument of the whole. In the same way, poetry functions regarding life: The individual lives in the whole and the whole in the individual. Through poetry there arises the highest sympathy and common activity, the most intimate communion of the finite and the infinite.*
 
-=== Text #18: George Santayana - Beauty as perfection ===
-Author: George Santayana (1863-1952)
-Title: Beauty as perfection
-Tags: Beauty, Perfection, Harmony, Soul, Nature, Morality, Aesthetics
+=== Text #11: Willem Zuurdeeg - MAN BEFORE CHAOS ===
+Author: Willem Zuurdeeg (1906–1963)
+Title: MAN BEFORE CHAOS
+Tags: Philosophy as cry, Authenticity, Awakening, Passion, Meaning, God
 Passage:
-"Our mind is satisfied when it finds harmony between who we are and what we experience: It finds it in the experience of beauty. When our perceptions and our imagination find what they crave … so that the correspondence between them is perfect, then perception is pleasure and existence needs no apology. The duality which is the condition of conflict disappears… Beauty therefore seems to be the clearest manifestation of perfection, and the best evidence of its possibility. If perfection is, as it should be, the ultimate justification of being, we may understand the moral dignity of beauty. Beauty is a testimony of the possible agreement between the soul and nature, and consequently a reason for faith in the supremacy of the good."
+*Philosophy is born in a cry. The fountain of philosophizing is not cold, abstract intellectualizing, but a deep and passionate concern about life and its meaning. … Plato’s birth as a philosopher came when he cried out loud: “Being MUST prevail over meaninglessness and death!” …*
+*The philosophical crying out suggests that a person can become authentically human when he has cried out in anxiety and triumph, in angry rebellion and in joyful reverence. Someone or some event touches him in a vital way, hurts him, knocks him over. When this happens, the cover is removed from a deeper, fuller possibility of his being. A self which had been trapped, or is sleeping, is liberated or awakened. Through such crying out, the person can become more truly himself, reaching out toward fulfilled humanity by establishing a fuller relationship to his own being, to others, to his world, and to his God.*
 
-=== Text #19: Aristotle - Happiness and virtue ===
-Author: Aristotle (384–322 BC)
-Title: Happiness and virtue
-Tags: Happiness, Virtue, Pleasure, Goodness, Flourishing, Eudaimonia, Ethics
+=== Text #10: Gabriel Marcel - MYSTERY OF BEING ===
+Author: Gabriel Marcel (1889–1973)
+Title: MYSTERY OF BEING (1951)
+Tags: Generosity, Light, Giving, Spirituality, Existence, Illumination
 Passage:
-"Pleasure belongs to the soul, and pleasure for each person is about what he is a lover of: Horses for horse-lovers, and plays for theater-lovers, and in the same way justice is pleasant for a person who loves justice. And, in general, things that conform with virtue are pleasant for those who love virtue. Now, the pleasures of most people are in conflict with each other, because they are not pleasant by their nature. But the lovers of goodness take pleasure in things that are pleasant by their nature. Such are always actions in conformity to virtue, so they are pleasant in themselves to lovers of goodness. The life of these people does not need extra pleasure as an additional attraction, because it contains its pleasure in itself… But if so, then virtuous actions must be pleasant in themselves. But they are also good and noble. And they are good and noble in the highest degree, since the good person makes good judgements about these things. Happiness, then, is the best, noblest, and most pleasant thing in the world."
+*To give is to expand, to expand oneself. But we must be careful not to interpret this in a material way, as if something that is too full flows out. The soul of the gift is its generosity, and obviously generosity is a virtue which must be carefully distinguished from excess. Wouldn’t an accurate definition of generosity be: A LIGHT WHOSE JOY IS TO GIVE LIGHT, TO BE LIGHT? …*
+*The special property of light is that it illuminates, it illuminates for others. This goes beyond the distinction between for me and for others. We might even say that this distinction does not exist for the light. If the joy of light is to be light, then it can only wish to be always more so. Light knows itself, then, as illuminating; and this knowledge is not like a sense of weakening and wasting itself, but on the contrary – it helps to increase its power. Like fire, generosity nurtures itself.*
