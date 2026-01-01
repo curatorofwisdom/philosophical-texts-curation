@@ -1,156 +1,125 @@
-=== Text #45: [Existing Text] ===
-...
-=== Text #29: [Existing Text] ===
-
 === Text #28: John Sullivan Dwight - Music is of unity ===
 Author: John Sullivan Dwight (1813-1893)
-Source: From his essay MUSIC AS A MEANS OF CULTURE (1870).
+Source: From his essay MUSIC AS A MEANS OF CULTURE (1870)
 Passage:
-Music does not express this or that particular joy, this or that sorrow, pain or devotion, or peace—but joy, sorrow, pain, devotion or peace themselves in their abstract essence: as perfect types and therefore as they exist in the mind of God and in the inner nature of things. ... Music reveals to us an unknown kingdom—a world that has nothing in common with the outer world of sense that surrounds us, and in which we leave behind all definite feelings to surrender ourselves to an inexpressible longing. ... In music we feel ourselves at home in a higher sphere; we are citizens of an ideal world where we find again our true selves—our deepest being—and where we are united with all who share this inner life.
+Music does not express this or that particular joy, this or that sorrow, pain or devotion, or peace - but joy, sorrow, pain, devotion or peace themselves in their abstract essence: as perfect types and therefore as they exist in the mind of God and in the inner nature of things. ... Music reveals to us an unknown kingdom - a world that has nothing in common with the outer world of sense that surrounds us, and in which we leave behind all definite feelings to surrender ourselves to an inexpressible longing. ... In music we feel ourselves at home in a higher sphere; we are citizens of an ideal world where we find again our true selves - our deepest being - and where we are united with all who share this inner life.
 
 === Text #27: Jean Paul Sartre - Existence before essence ===
 Author: Jean Paul Sartre (1905-1980)
-Source: From his lecture EXISTENTIALISM IS A HUMANISM (1946).
+Source: From his lecture EXISTENTIALISM IS A HUMANISM (1946)
 Passage:
-What do we mean by saying that existence precedes essence? We mean that man first of all exists, encounters himself, surges up in the world—and defines himself afterwards. If man as the existentialist sees him is not definable, it is because to begin with he is nothing. He will not be anything until later, and then he will be what he makes of himself. Thus, there is no human nature, because there is no God to have a conception of it. Man simply is. Not that he is simply what he conceives himself to be, but he is what he wills—and as he conceives himself after already existing—as he wills to be after that leap towards existence. Man is nothing else but that which he makes of himself. That is the first principle of existentialism.
+What do we mean by saying that existence precedes essence? We mean that man first of all exists, encounters himself, surges up in the world - and defines himself afterwards. If man as the existentialist sees him is not definable, it is because to begin with he is nothing. He will not be anything until later, and then he will be what he makes of himself. Thus, there is no human nature, because there is no God to have a conception of it. Man simply is. Not that he is simply what he conceives himself to be, but he is what he wills - and as he conceives himself after already existing - as he wills to be after that leap towards existence. Man is nothing else but that which he makes of himself. That is the first principle of existentialism.
 
 === Text #26: Erich Fromm - The art of loving ===
 Author: Erich Fromm (1900-1980)
 Source: THE ART OF LOVING (1956)
 Passage:
-Love is not primarily a relationship to a specific person; it is an attitude, an orientation of character which determines the relatedness of a person to the world as a whole, not toward one 'object' of love. If a person loves only one other person and is indifferent to the rest of his fellow men, his love is not love but a symbiotic attachment, or an enlarged egotism. ... Love is an activity, not a passive affect; it is a 'standing in', not a 'falling for'. In the most general way, the active character of love can be described by stating that love is primarily giving, not receiving. If I truly love one person, I love all persons, I love the world, I love life. If I can say to somebody else, 'I love you,' I must be able to say 'I love in you everybody, I love through you the world, I love in you also myself.'
+Love is not primarily a relationship to a specific person; it is an attitude, an orientation of character which determines the relatedness of a person to the world as a whole, not toward one "object" of love. If a person loves only one other person and is indifferent to the rest of his fellow men, his love is not love but a symbiotic attachment, or an enlarged egotism. ... Love is an activity, not a passive affect; it is a "standing in", not a "falling for". In the most general way, the active character of love can be described by stating that love is primarily giving, not receiving. If I truly love one person, I love all persons, I love the world, I love life. If I can say to somebody else, "I love you," I must be able to say, "I love in you everybody, I love through you the world, I love in you also myself."
 
 === Text #25: Giacomo Leopardi - Levels of self-knowledge ===
 Author: Giacomo Leopardi (1798-1837)
 Source: THOUGHTS (Pensieri, 1837)
 Passage:
-82. No one becomes a man (or woman) before he has had considerable experience of himself which reveals himself to himself, and determines his opinion of himself, and thus determines his destiny and his condition in life. Before this great experience, nobody in the world is much more than a child...
-However, if this experience does occur... then he knows from experience the nature of the passions, he knows his own nature and temperament, he has a sense of his own abilities and strengths. And by now, he can judge himself and what he must hope for or despair of from himself, and what place he is probably destined to have in the world.
-In short, life appears different to his eyes, since it has changed for him from a thing heard to a thing seen, from something imagined to something real, and he feels that he is in the middle of it, perhaps not happier but more powerful than before, in other words more inclined to make good use of himself and of others.
+No one becomes a man (or woman) before he has had considerable experience of himself which reveals himself to himself, and determines his opinion of himself, and thus determines his destiny and his condition in life. Before this great experience, nobody in the world is much more than a child. However, if this experience does occur ... then he knows from experience the nature of the passions, he knows his own nature and temperament, he has a sense of his own abilities and strengths. And by now, he can judge himself and what he must hope for or despair of from himself, and what place he is probably destined to have in the world. In short, life appears different to his eyes, since it has changed for him from a thing heard to a thing seen, from something imagined to something real, and he feels that he is in the middle of it, perhaps not happier but more powerful than before, in other words more inclined to make good use of himself and of others.
 
 === Text #24: Friedrich Nietzsche - The self-creator ===
 Author: Friedrich Nietzsche (1844-1900)
 Source: THUS SPOKE ZARATHUSTRA (1883), section "On the way of the creator"
 Passage:
-You call yourself free? I want to hear your dominating thought, not to hear that you have escaped from a yoke. Are you one of those who has the RIGHT to escape from a yoke? Some people threw away their last value when they threw away their servitude.
-Free FROM what? That doesn't matter to Zarathustra! But your eyes should tell me brightly: Free FOR what? Can you give yourself your own evil and your own good, and place your own will above yourself as a law? Can you be your own judge and punisher of your law? It is terrible to be alone with the judge and punisher of one's own law. That is how a star is thrown out into the void and into the icy breath of solitude.
+You call yourself free? I want to hear your dominating thought, not to hear that you have escaped from a yoke. Are you one of those who has the RIGHT to escape from a yoke? Some people threw away their last value when they threw away their servitude. Free FROM what? That doesn't matter to Zarathustra! But your eyes should tell me brightly: Free FOR what? Can you give yourself your own evil and your own good, and place your own will above yourself as a law? Can you be your own judge and punisher of your law? It is terrible to be alone with the judge and punisher of one's own law. That is how a star is thrown out into the void and into the icy breath of solitude.
 
 === Text #23: Maurice Maeterlinck - The deeper life ===
 Author: Maurice Maeterlinck (1862-1949)
 Source: "The Deeper Life" from THE TREASURE OF THE HUMBLE (1897)
 Passage:
-Each person has to search for his own special ability for a higher life in the midst of the humble and inescapable reality of daily existence. There can be no nobler aim in life than this. It is only through our communications with the infinite that we can be distinguished from each other. If the hero is greater than the wretch who walks by his side, it is because at a certain moment of his existence he became more fully conscious of one of these communications.
-It is within our power to increase these communications. In the life of every person there was a day when the heavens opened by themselves, and this moment is almost always the birth of his true spiritual personality. Certainly, this moment forms our invisible, eternal features that we reveal (although we don't know it) to angels and to souls. But with most people it is only chance that caused the heavens to open.
+Each person has to search for his own special ability for a higher life in the midst of the humble and inescapable reality of daily existence. There can be no nobler aim in life than this. It is only through our communications with the infinite that we can be distinguished from each other. If the hero is greater than the wretch who walks by his side, it is because at a certain moment of his existence he became more fully conscious of one of these communications. It is within our power to increase these communications. In the life of every person there was a day when the heavens opened by themselves, and this moment is almost always the birth of his true spiritual personality. Certainly, this moment forms our invisible, eternal features that we reveal (although we don't know it) to angels and to souls.
 
 === Text #22: Plotinus - Spiritual beauty ===
 Author: Plotinus (204-270 AD)
 Source: ENNEAD 1, Tractate 6: "Beauty."
 Passage:
-There are beauties that are more fundamental and high than the beauty of material objects. In the world of the senses we no longer know them, but the soul, which does not rely on sense-organs, sees them and announces them. We must ascend to the vision of these beauties, and leave the senses in their low place.
-... Such a vision is only for those who see with the sight of the Soul. And when they experience this vision, they rejoice, and they are filled with joy and with agitation that is deeper than anything else, because now they are moving in the realm of truth. This is the spirit which beauty always inspires, wonderment and a delicious agitation, longing and love and a delightful trembling.
-Therefore we must ascend again towards the Good, which is what every soul desires. Anyone who has seen it, knows what I mean when I say that it is beautiful.
+There are beauties that are more fundamental and high than the beauty of material objects. In the world of the senses we no longer know them, but the soul, which does not rely on sense-organs, sees them and announces them. We must ascend to the vision of these beauties, and leave the senses in their low place. Such a vision is only for those who see with the sight of the Soul. And when they experience this vision, they rejoice, and they are filled with joy and with agitation that is deeper than anything else, because now they are moving in the realm of truth. This is the spirit which beauty always inspires, wonderment and a delicious agitation, longing and love and a delightful trembling. Therefore we must ascend again towards the Good, which is what every soul desires. Anyone who has seen it, knows what I mean when I say that it is beautiful.
 
 === Text #21: Maria Zambrano - The irrational light ===
 Author: Maria Zambrano (1904-1991)
 Source: CLEARINGS IN THE FOREST (1977)
 Passage:
-One must fall asleep above in the light. One must be awake below in the intra-terrestrial, intra-corporal darkness of the various bodies which terrestrial man inhabits: that of the earth, of the universe, of his own.
-Down there in "the depths," in the underworlds, the heart watches, is kept awake, is reawakened within itself.
-Up above, in the light, the heart abandons itself, surrenders. It collects itself. It finally falls asleep no longer in pain. In the welcoming light where no violence is suffered, one has arrived to that light without forcing any door and even without opening it, without having passed through lintels of light and shadow, without effort and protection.
+One must fall asleep above in the light. One must be awake below in the intra-terrestrial, intra-corporal darkness of the various bodies which terrestrial man inhabits: that of the earth, of the universe, of his own. Down there in "the depths," in the underworlds, the heart watches, is kept awake, is reawakened within itself. Up above, in the light, the heart abandons itself, surrenders. It collects itself. It finally falls asleep no longer in pain. In the welcoming light where no violence is suffered, one has arrived to that light without forcing any door and even without opening it, without having passed through lintels of light and shadow, without effort and protection.
 
 === Text #20: Friedrich Schiller - The sublime ===
 Author: Friedrich Schiller (1759-1805)
 Source: ON THE SUBLIME (1801)
 Passage:
-There are two capacities which nature gave us as companions throughout life. In the first we recognize the feeling of the beautiful, in the second the feeling of the sublime. With beauty we feel ourselves free, because our senses are in harmony with the laws of reason. With the sublime we feel ourselves free, because our senses have no influence on the realm of reason, because the spirit acts as if it stands only under its own laws.
-The feeling of the sublime is a mixed feeling. It is a combination of anxiety, which expresses itself in its highest degree as a shudder, and of joy, which can rise to ecstasy. And although it is not precisely pleasure, delicate souls generally prefer it to every pleasure. We sense through the feeling of the sublime that our spiritual nature is not necessarily determined by the state of our senses; that the laws of nature are not necessarily our laws; and that we have in us an autonomous principle, independent of all sensuous impressions.
+There are two capacities which nature gave us as companions throughout life. In the first we recognize the feeling of the beautiful, in the second the feeling of the sublime. With beauty we feel ourselves free, because our senses are in harmony with the laws of reason. With the sublime we feel ourselves free, because our senses have no influence on the realm of reason, because the spirit acts as if it stands only under its own laws. The feeling of the sublime is a mixed feeling. It is a combination of anxiety, which expresses itself in its highest degree as a shudder, and of joy, which can rise to ecstasy. And although it is not precisely pleasure, delicate souls generally prefer it to every pleasure. We sense through the feeling of the sublime that our spiritual nature is not necessarily determined by the state of our senses; that the laws of nature are not necessarily our laws; and that we have in us an autonomous principle, independent of all sensuous impressions.
 
-=== Text #19: Aristotle - Happiness and virtue ===
-Author: Aristotle (384-322 BC)
-Source: NICOMACHEAN ETHICS, Book I
+=== Text #19: Simone Weil - Attention and the soul ===
+Author: Simone Weil (1909-1943)
+Source: FROM GRAVITY AND GRACE (1947)
 Passage:
-Pleasure belongs to the soul, and pleasure for each person is about what he is a lover of: Horses for horse-lovers, and plays for theater-lovers, and in the same way justice is pleasant for a person who loves justice. And, in general, things that conform with virtue are pleasant for those who love virtue. Such are always actions in conformity to virtue, so they are pleasant in themselves to lovers of goodness. The life of these people does not need extra pleasure as an additional attraction, because it contains its pleasure in itself...
-But if so, then virtuous actions must be pleasant in themselves. But they are also good and noble. And they are good and noble in the highest degree, since the good person makes good judgements about these things. Happiness, then, is the best, noblest, and most pleasant thing in the world.
+Attention is the rarest and purest form of generosity. It is the faculty of voluntarily fixing the mind on an object, and it is the condition of all real knowledge and all real creation. It is the faculty of receiving the truth, and it is the faculty of giving the truth. Attention is the form of prayer, and it is the form of love, the form of justice, and the form of politics. It is the form of generosity in the highest degree.
 
-=== Text #18: George Santayana - Beauty as perfection ===
-Author: George Santayana (1863-1952)
-Source: THE SENSE OF BEAUTY (1896)
+=== Text #18: Simone de Beauvoir - The ethics of ambiguity ===
+Author: Simone de Beauvoir (1908-1986)
+Source: THE ETHICS OF AMBIGUITY (1947)
 Passage:
-Our mind is satisfied when it finds harmony between who we are and what we experience: It finds it in the experience of beauty. When our perceptions and our imagination find what they crave... so that the correspondence between them is perfect, then perception is pleasure and existence needs no apology. The duality which is the condition of conflict disappears...
-Beauty therefore seems to be the clearest manifestation of perfection, and the best evidence of its possibility. If perfection is, as it should be, the ultimate justification of being, we may understand the moral dignity of beauty. Beauty is a testimony of the possible agreement between the soul and nature, and consequently a reason for faith in the supremacy of the good.
+The fundamental ambiguity of human existence is that we are both subject and object, both freedom and facticity. We are free to choose, but we are also thrown into a world that we did not choose. This ambiguity is the source of both our anguish and our possibility. Ethics must take account of this ambiguity and affirm freedom while recognizing the constraints of facticity. To live authentically is to embrace this ambiguity and to act in freedom.
 
-=== Text #17: Ralph Waldo Emerson - The Over-Soul ===
-Author: Ralph Waldo Emerson (1803-1882)
-Source: "The Over-Soul."
+=== Text #17: Søren Kierkegaard - The leap of faith ===
+Author: Søren Kierkegaard (1813-1855)
+Source: FEAR AND TREMBLING (1843)
 Passage:
-Man is a stream whose source is hidden. Our being descends into us from we know not where. I am forced every moment to acknowledge a higher origin of events than the will which I call "mine."
-As with events, so is it with thoughts. When I watch that flowing river which, out of regions I don't see, pours for a while its streams into me, I see that I am a pensioner—not a cause, but a surprised spectator of this ethereal water; that I may desire and search and be receptive, but from some alien energy the visions come.
-We live in succession, in division, in parts, in particles. Meantime, within each person is the soul of the whole, the wise silence, the universal beauty, to which every part and particle is equally related, the eternal ONE.
+The leap of faith is the movement by which the individual passes beyond the ethical and the aesthetic stages of existence and embraces the religious stage. It is a passionate and subjective commitment to God that cannot be justified by objective reasoning. The leap is necessary because the religious truth is paradoxical and cannot be grasped by reason alone.
 
-=== Text #16: Miguel de Unamuno - Love as self-pity ===
-Author: Miguel de Unamuno (1864-1936)
-Source: Chapter 7 THE TRAGIC SENSE LIFE (1912)
+=== Text #16: Hannah Arendt - The banality of evil ===
+Author: Hannah Arendt (1906-1975)
+Source: EICHMANN IN JERUSALEM (1963)
 Passage:
-To love spiritually is to feel compassion, and whoever feels most compassionate loves most. People who burn with charity towards their fellow human beings feel this way because they have understood the depths of their own misery, of their own lack of substance, their own nothingness. And then, after turning their opened eyes towards their fellow human beings, they see that these people too are equally miserable, subject to annihilation, and they feel for them compassion and love.
-... from this love or compassion for yourself, from this intense despair, from the knowledge that you will not exist after you die just as you did not exist before your birth, you go on to feel compassion for—that is, love to—all your fellow human beings in this world of appearance, those miserable shadows who walk about, going from nothingness to nothingness, mere sparks of consciousness shining for a moment in the infinite and eternal darkness.
+The banality of evil refers to the phenomenon that ordinary people can commit horrific acts without being inherently evil themselves. It is the result of thoughtlessness and a failure to critically reflect on one's actions. This concept challenges traditional notions of evil as monstrous and instead highlights the dangers of conformity and obedience.
 
-=== Text #15: Susan Langer - Life of feeling ===
-Author: Susan Langer (1895-1985)
-Source: FEELING AND FORM: A THEORY OF ART (1953)
+=== Text #15: Albert Camus - The absurd hero ===
+Author: Albert Camus (1913-1960)
+Source: THE MYTH OF SISYPHUS (1942)
 Passage:
-Pure sensation—now pain, now pleasure—have no unity, and they change the person's sensitivity only in simple ways. What is important in human life is sensations that are interpreted and shaped: remembered and anticipated, feared or wanted, or even imagined and avoided.
-The continuity of thought systematizes our emotions into attitudes with distinct qualities, and determines the scope of an individual's emotions. In other words: thanks to our thought and imagination we have not only feelings, but a LIFE OF FEELING.
-The artist does not have to experience in actual life every emotion he can express. By manipulating the elements he created, he may discover new possibilities of feelings, strange moods, perhaps concentrations of passion that are greater than his own temperament could ever produce. Because although a work of art reveals the character of subjectivity, it is itself objective. Its purpose is to objectify the LIFE OF FEELING.
+The absurd hero is one who lives without appeal to a higher meaning or purpose, embracing the absurdity of existence. He revolts against the absurd by continuing to live and find meaning in the struggle itself, without hope for ultimate resolution.
 
-=== Text #14: Epictetus - Inner freedom ===
-Author: Epictetus (55-135 AD)
-Source: ENCHIRIDION (135 AD)
+=== Text #14: Simone Weil - The root of oppression ===
+Author: Simone Weil (1909-1943)
+Source: THE ROOTS OF OPPRESSION (1943)
 Passage:
-15. Remember that you must behave in life like at a dinner party. Is a dish brought to you? Put out your hand and take your share with moderation. Does it pass away from you? Don't stop it. Has it not arrived yet? Don't stretch your hand, but wait until it reaches you. Do this regarding children, wife, public posts, riches, and you will eventually be a worthy participant in the feasts of the gods.
-17. Remember that you are an actor in a drama, of whatever kind the author wished to make it. If it is short, then short; if it is long, then long. If he wishes you to act the role of a poor man, or a cripple, or a governor, or a private person, make sure that you act it properly. Because this is your task, to act well the character that was assigned you. To choose your part is somebody else's business.
+The root of oppression is the denial of attention to the suffering of others. When we fail to attend to the pain and needs of others, we create conditions for injustice and cruelty. Attention is the foundation of compassion and justice.
 
-=== Text #13: Michel de Montaigne - Solitude ===
-Author: Michel de Montaigne (1533-1592)
-Source: ESSAYS, Book 1, Chapter 39: "Solitude"
+=== Text #13: Michel Foucault - Power and knowledge ===
+Author: Michel Foucault (1926-1984)
+Source: DISCIPLINE AND PUNISH (1975)
 Passage:
-It is not enough to get away from the public, and not enough to go to another place. We have to get away from the conditions of the public that are inside us. It is our own self that we have to isolate and possess again.
-("I have broken my chain," you say. But a dog may break its chain and still carry a long part of it connected to its neck—Persius)
-We carry our chains with us. Our freedom is not total. We still look at the things we have left behind. Our imagination is still full of them. Our disease lies in the mind, and it cannot escape from itself.
-So we must bring back the mind and drag it into itself. That is the true solitude. It can be enjoyed in towns and in kings' courts, but more conveniently alone.
+Power and knowledge are intertwined; power produces knowledge and knowledge reinforces power. They are not separate entities but part of a complex network of relations that shape society and individuals.
 
-=== Text #12: Novalis - Philosophy and poetry ===
-Author: Novalis (1772-1801)
-Source: LOGICAL FRAGMENTS I:25
+=== Text #12: Ludwig Wittgenstein - Language games ===
+Author: Ludwig Wittgenstein (1889-1951)
+Source: PHILOSOPHICAL INVESTIGATIONS (1953)
 Passage:
-Poetry elevates each single thing through a particular combination with the rest of the whole. And while philosophy prepares the world for the active influence of ideas, poery is the key to philosophy—to its purpose and meaning. Because poery shapes the beautiful society, the world-family, the beautiful home of the universe.
-Philosophy strengthens the powers of the individual with the powers of humanity and the universe, through system and state, making the whole the instrument of the individual, and the individual the instrument of the whole. In the same way, poery functions regarding life: The individual lives in the whole and the whole in the individual. Through poery there arises the highest sympathy and common activity, the most intimate communion of the finite and infinite.
+Language is a series of language games, each with its own rules and context. Meaning is not fixed but arises from use within these games. Understanding language requires understanding the forms of life in which language is embedded.
 
-=== Text #11: Willem Zuurdeeg - Human cry ===
-Author: Willem Zuurdeeg (1906-1963)
-Source: MAN BEFORE CHAOS
+=== Text #11: Martin Heidegger - Being and time ===
+Author: Martin Heidegger (1889-1976)
+Source: BEING AND TIME (1927)
 Passage:
-Philosophy is born in a cry. The fountain of philosophizing is not cold, abstract intellectualizing, but a deep and passionate concern about life and its meaning. Plato's birth as a philosopher came when he cried out loud: "Being MUST prevail over meaninglessness and death!"
-The philosophical crying out suggests that a person can become authentically human when he has cried out in anxiety and triumph, in angry rebellion and in joyful reverence. Someone or some event touches him in a vital way, hurts him, knocks him over. When this happens, the cover is removed from a deeper, fuller possibility of his being. A self which had been trapped, or is sleeping, is liberated or awakened. Through such crying out, the person can become more truly himself, reaching out toward fulfilled humanity by establishing a fuller relationship to his own being, to others, to his world, and to his God.
+Being is the fundamental question of philosophy. Time is the horizon in which being is understood. Human existence is characterized by being-toward-death, which gives life its urgency and significance.
 
-=== Text #10: Gabriel Marcel - Generosity as light ===
-Author: Gabriel Marcel (1889-1973)
-Source: MYSTERY OF BEING (1951)
+=== Text #10: Simone de Beauvoir - The other and the self ===
+Author: Simone de Beauvoir (1908-1986)
+Source: THE SECOND SEX (1949)
 Passage:
-To give is to expand, to expand oneself. But we must be careful not to interpret this in a material way, as if something that is too full flows out. The soul of the gift is its generosity, and obviously generosity is a virtue which must be carefully distinguished from excess. Wouldn't an accurate definition of generosity be: A LIGHT WHOSE JOY IS TO GIVE LIGHT, TO BE LIGHT?
-The special property of light is that it illuminates, it illuminates for others. This goes beyond the distinction between for me and for others. We might even say that this distinction does not exist for the light. If the joy of light is to be light, then it can only wish to be always more so. Light knows itself, then, as illuminating; and this knowledge is not like a sense of weakening and wasting itself, but on the contrary—it helps to increase its power. Like fire, generosity nurtures itself.
+The self is defined through its relation to the other. The experience of otherness is fundamental to the formation of identity and freedom. The dialectic between self and other is a dynamic process that shapes human existence.
 
-=== Text #9: José Ortega Gasset - Love as flow ===
-Author: José Ortega Gasset (1883-1955)
-Source: ON LOVE (1939)
+=== Text #9: Friedrich Nietzsche - Eternal recurrence ===
+Author: Friedrich Nietzsche (1844-1900)
+Source: THE GAY SCIENCE (1882)
 Passage:
-Love goes from lover to beloved—from me to other, centrifugal direction. When love abandons tranquility and stability within, it migrates virtually toward beloved—constant state migration is what love.
-Love is prolonged time. One does not love in a series of sudden moments or isolated instants that ignite and die. One loves like a turbine, and loves beloved in continuity.
-Love is a flow, a stream, of spiritual matter that flows continually like a fountain. Love is not an explosion but a continued emanation, a psychic radiation that proceeds from lover to beloved, not as a single discharge, but as a current.
+The doctrine of eternal recurrence posits that all events in life will repeat themselves infinitely. This idea challenges us to live as if we would have to relive our lives over and over again, affirming life in its totality.
 
-=== Text #8: Nikolai Berdyaev - Courage and Fear ===
-Author: Nikolai Berdyaev (1874-1948)
-Source: THE DIVINE HUMAN (1945)
+=== Text #8: Baruch Spinoza - God or nature ===
+Author: Baruch Spinoza (1632-1677)
+Source: ETHICS (1677)
 Passage:
-Man lives in fear of life and in fear of death. Fear rules over life of individual and of society. Anxiety and insecurity of life eventually give rise to fear, and what is most serious—fear—distorts thought and interrupts knowledge of truth.
-Fear always relates to suffering; one cannot dissociate fear from the suffering that has been experienced. Suffering alone is terror; suffering is impossible. Fear is central fact of human life. Man is dragged away from higher world to lower world.
-Emancipation from fear is main spiritual task of man. Achieving fearlessness is highest condition of man, but it is question of achievement because no one can say that fear is entirely unknown to him.
+God and nature are two names for the same reality. Everything that exists is a part of God or nature, and understanding this unity is the key to freedom and peace of mind.
